@@ -24,5 +24,5 @@ Hello everyone. Hope you all are excited to start learning web development from 
  
  *How to download ? : Just go the folder copy the link present in your tab and enter it here: [Download](https://downgit.github.io/#/home) and press download. Extract the folder and open it using visual studio code.*
 
- <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
+ <p align="center">Created with :heart: by <a href="https://itc.gymkhana.iitb.ac.in/wncc/">WnCC</a></p>
 
